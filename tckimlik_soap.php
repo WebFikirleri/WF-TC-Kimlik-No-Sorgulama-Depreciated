@@ -49,7 +49,7 @@ class tckimlik_soap {
 
 			if ($result == 'true') {
 				return 1;
-			} elsif ($result == 'false') {
+			} elseif ($result == 'false') {
 				return 0;
 			} else {
 				return -1;
