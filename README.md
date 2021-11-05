@@ -64,3 +64,5 @@ if ($tcd == 1)
 else
   echo 'TC Kimlik Geçersiz ya da Sorgulanırken bir sorun oluştu.';
 ```
+
+![Counter](https://webfikirleri.com/counter?url=https://github.com/WebFikirleri/WF-TC-Kimlik-No-Sorgulama)
